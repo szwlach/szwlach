@@ -13,7 +13,7 @@
 → REST/GraphQL APIs  
 
 **Tools**:  
-→ Vercel, Git, Prisma,DrizzleORM
+→ Vercel, Git, Prisma, DrizzleORM
 
 ## 🌱 Currently Deepening My Knowledge In  
 - Advanced Next.js 14 patterns  
