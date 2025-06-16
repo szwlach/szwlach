@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Szymon Wlach (he/him)  
+# 👋 Hi, I'm Szymon Wlach  
 
 **Fullstack Developer** building modern web apps with TypeScript, Next.js, and Supabase.  
 
